@@ -1,1 +1,1 @@
-select * from [ref].[rf_seller] where 1=1;
+select * from [bronze].[Contact];
